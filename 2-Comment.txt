@@ -1,0 +1,25 @@
+Comment- Comments are useful to write something abou thw code but you do not want to run that or show in the output
+Comments are basically for future self or for the other developers who might work on the same codebase
+
+To create a comment we write the text between 
+<!--  -->
+
+
+For example:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-16">
+    <title>custom title </title>
+</head>
+<body>
+   <h1>Lorem ipsum 
+    <hr>dolor sit amet.</h1>
+    <!-- Dummy text -->
+   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum eius repudiandae, autem explicabo a, voluptates quaerat obcaecati libero dolorem beatae quasi nisi. Illo tempora aliquam delectus deserunt veritatis maiores consequuntur exercitationem rerum perferendis architecto molestias possimus explicabo nobis cumque eum temporibus saepe similique reprehenderit porro quas recusandae, nostrum id odio minus. Quis molestias dolorem quod at incidunt aperiam veritatis aliquid eius, quam, autem delectus ipsum, libero temporibus. Repellat ut consequatur ducimus, perferendis placeat beatae nobis porro expedita cupiditate a nam id debitis eligendi ipsum non quisquam. Rem inventore ab amet rerum repellendus exercitationem officia molestiae delectus. Eos in sed, reprehenderit ea fugit nemo rem reiciendis dolorum impedit dignissimos consequatur accusantium? Dicta similique quae iure neque ea excepturi, cupiditate a tempora nostrum eveniet? Minus reprehenderit, officiis eligendi obcaecati veritatis ea est sunt mollitia necessitatibus, quos sit ex facilis sapiente quasi rerum architecto voluptas, officia amet! Labore similique placeat, porro eius, deleniti maxime assumenda soluta laborum et fugit eum veniam voluptas quibusdam nam cumque dolores tempora blanditiis impedit ipsa unde dolorum error, non magni. Dignissimos, dicta quo. Ipsa quas nesciunt deserunt repellendus, atque excepturi cumque adipisci aperiam necessitatibus maiores eaque non. Repellat tempora officia cumque fuga id, voluptatem libero? Amet, obcaecati adipisci!</p>
+   <!-- Dummy text  -->
+   </section>
+</body>
+</html>
+
+

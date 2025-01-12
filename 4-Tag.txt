@@ -1,0 +1,12 @@
+HTML tag is used of tagss to define the structurr and layout of web pages.
+Tags are the building blocks of HTML docuent and consisit of angle brackets enclosing specific keywords.these tags provide instructions to web broswer s on how to dispaly the content.
+HTML tag is composed of an opening tag and in some cases a closing tag. The opening tag starts with the less-than sysmbol (<) followed by the tag name,and ends with a greather-than symbol(>).the closing tag
+is also includes forward slash(/) before the tag name
+for example:
+opening tag (<)
+closing tag(/>)
+
+
+<p>Lorem ipsum dolor sit amet.</p>
+In this example, <p> is the opening tag, and </p> is the closing tag. The content "Lorem ipsum dolor sit amet." is the
+text within the paragraph element.
